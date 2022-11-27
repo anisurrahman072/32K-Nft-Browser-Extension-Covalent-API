@@ -1,0 +1,16 @@
+.title{
+    font-size: 22px; 
+    text-align: center;
+}
+.small-text{
+    font-size: 10px; 
+    text-align: center;
+}
+.bookmarks {
+    width: 340px; 
+    height: 500px; 
+    display: flex; 
+    flex-wrap: wrap; 
+    justify-content: space-between; 
+    padding: 5px;
+}

@@ -1,0 +1,20 @@
+{
+    "name": "My YT Bookmarks",
+    "version": "0.1.0",
+    "description": "Saving timestamps in YT videos",
+    "permissions": ["storage", "tabs"],
+    "host_permissions": [],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "action": {
+      "default_icon": {
+        "16": "crypto.png",
+        "24": "crypto.png",
+        "32": "crypto.png"
+      },
+      "default_title": "My YT Bookmarks",
+      "default_popup": "popup.html"
+    },
+    "manifest_version": 3
+  }
