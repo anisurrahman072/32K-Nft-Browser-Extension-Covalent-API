@@ -9,9 +9,9 @@
     },
     "action": {
       "default_icon": {
-        "16": "crypto.png",
-        "24": "crypto.png",
-        "32": "crypto.png"
+        "16": "nft.png",
+        "24": "nft.png",
+        "32": "nft.png"
       },
       "default_title": "BasementSports NFTs",
       "default_popup": "popup.html"
